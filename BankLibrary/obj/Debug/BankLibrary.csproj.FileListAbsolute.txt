@@ -1,0 +1,5 @@
+C:\Users\J&L\documents\visual studio 2015\Projects\BankApplication\BankLibrary\bin\Debug\BankLibrary.dll
+C:\Users\J&L\documents\visual studio 2015\Projects\BankApplication\BankLibrary\bin\Debug\BankLibrary.pdb
+C:\Users\J&L\documents\visual studio 2015\Projects\BankApplication\BankLibrary\obj\Debug\BankLibrary.csprojResolveAssemblyReference.cache
+C:\Users\J&L\documents\visual studio 2015\Projects\BankApplication\BankLibrary\obj\Debug\BankLibrary.dll
+C:\Users\J&L\documents\visual studio 2015\Projects\BankApplication\BankLibrary\obj\Debug\BankLibrary.pdb
